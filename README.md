@@ -1,6 +1,5 @@
-### The entire data that powers https://ashtadhyayi.com is here.  
+# Development Branch
 
-The website reads all the data directly from this repository.  
-If you are interested in proofreading the data or contributing to this repository, please reach out. 
+This is the development branch, and it primarily has all the data I have used for the sanskrit compiler. 
 
-Also, if you would like to recieve a notification for all the pushes to this repository, you can open an issue at https://github.com/sanskrit/ashtadhyayi_com_transforms/issues. 
+All the data was in .txt form, which has been changed to json, and will be imported into a MongoDB database for use by the Python scripts.
